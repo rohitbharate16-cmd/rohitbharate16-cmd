@@ -173,7 +173,7 @@ Hands-on experience working with AWS services including EC2, S3, VPC, IAM, RDS, 
 
 # 📫 Connect With Me
 
-💼 LinkedIn: **[Your LinkedIn Profile](https://www.linkedin.com/in/rohit-bharate-3b49022a1/)**
+💼 LinkedIn: **[My LinkedIn Profile](https://www.linkedin.com/in/rohit-bharate-3b49022a1/)**
 
 🐙 GitHub: **[@rohitbharate16-cmd](https://github.com/rohitbharate16-cmd)**
 
